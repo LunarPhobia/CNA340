@@ -1,6 +1,24 @@
-**# My last python hw assignment**
+## **my_last_python_assignment**
 
-This code takes the IP address that the user input and determines whether the IP is the router or a lease.
+This code takes the IP address that the user inputs and determines whether the IP is the router or a lease.
 
-## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+# **Getting Started**
+
+These instructions will install python on your local machine to run my_last_python_assignment.
+
+# **Prerequisites**
+
+my_last_python_assignment requires python of any version to run, with no additional packages, libaries, or mods needed. The commands below will update your apt (advanced package tool) and install python.
+
+sudo apt-get update
+sudo apt-get install python3.9
+
+# **Running**
+
+Once installed you can run the program with the following command
+
+python my_last_python_assignment.py
+
+# **Thanks**
+
+Zak Rubin for providing examples and giving feedback
