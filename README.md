@@ -10,7 +10,7 @@ This code takes the IP address that the user inputs and determines whether the I
 2. Save file.
 3. Open installer and complete setup.
 
-you can also install python on Linux with the following commands:
+### Alternatively, you can also install python on Linux with the following commands in command line:
 ```
 sudo apt-get update
 sudo apt-get install python3.9
