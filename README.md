@@ -14,7 +14,7 @@ This code takes the IP address that the user inputs and determines whether the I
 
 my_last_python_assignment requires python of any version to run, with no additional packages, libaries, or mods needed. The commands below will update your apt (advanced package tool) and install python.
 
-sudo apt-get update
+sudo apt-get update \
 sudo apt-get install python3.9
 
 ## **Running**
