@@ -4,13 +4,13 @@ This code takes the IP address that the user inputs and determines whether the I
 
 ## **Getting Started**
 
-### These instructions will install python on your machine to run *my_last_python_assignment*:
+#### These instructions will install python on your machine to run *my_last_python_assignment*:
 
 1. Go to https://www.python.org/downloads/ and download latest version for your OS.
 2. Save file.
 3. Open installer and complete setup.
 
-### Alternatively, you can also install python on Linux with the following commands in command line:
+#### Alternatively, you can also install python on Linux with the following commands in command line:
 ```
 sudo apt-get update
 sudo apt-get install python3.9
